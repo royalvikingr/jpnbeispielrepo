@@ -6,7 +6,7 @@
 
 - Der Binder kann hier aufgerufen werden: 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InaStein/binder-example/master)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/royalvikingr/jpnbeispielrepo/master)
 
 
 
